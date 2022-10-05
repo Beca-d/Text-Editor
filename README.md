@@ -8,14 +8,14 @@ A text editor that can be used in the browser or installed locally to use offlin
 
 ## Table of Contents
 
-* [Description](#Description)    
-* [Installation](#Installation)  
-* [Usage](#Usage)
+* [Description](#description)    
+* [Installation](#installation)  
+* [Usage](#usage)
 * [Screenshot](#screenshot)
-* [Link](#Link)    
-* [License](#License)  
-* [Credits](#Credits)  
-* [Questions](#Contacts)
+* [Link](#link)    
+* [License](#license)  
+* [Credits](#credits)  
+* [Questions](#questions)
 
 ## Installation
 
@@ -31,13 +31,21 @@ Use this app on a browser or locally just like any other text editor.
 
 ## Screenshot
 
+![jate](https://user-images.githubusercontent.com/67708213/194004582-ab5d2212-83ad-4126-87c7-809ef9a853fb.JPG)
+---
+![jate2](https://user-images.githubusercontent.com/67708213/194004598-f83cee62-923b-402e-bd3f-4dc0f95c2083.JPG)
+
 ---
 
 ## Link
 
+[Website](https://beca-d-jate.herokuapp.com/)
+
+[GitHub Repository](https://github.com/Beca-d/Text-Editor)
+
 ---
 
-## Licenses
+## License
 
 ![License](https://img.shields.io/badge/license-MIT-green)  
 [License Details](https://opensource.org/licenses/MIT)
